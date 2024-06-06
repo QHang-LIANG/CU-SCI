@@ -2,3 +2,4 @@ CU-SCI_EXP.ipynb filter=lfs diff=lfs merge=lfs -text
 6-11-02_09-39N64-P384-S6000-11.47h-Random-SR10-Seed123-data.csv filter=lfs diff=lfs merge=lfs -text
 8-11-25_05-55N64-P384-S6000-11.49h-Random-SR10-Seed123-data.csv filter=lfs diff=lfs merge=lfs -text
 11-11-24_06-18N64-P384-S6000-11.47h-Random-SR10-Seed123-data.csv filter=lfs diff=lfs merge=lfs -text
+14-12-01_06-09N64-P192-S6000-11.46h-Random-SR10-Seed123-data.csv filter=lfs diff=lfs merge=lfs -text
