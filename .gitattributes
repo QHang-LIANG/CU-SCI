@@ -5,3 +5,4 @@ CU-SCI_EXP.ipynb filter=lfs diff=lfs merge=lfs -text
 14-12-01_06-09N64-P192-S6000-11.46h-Random-SR10-Seed123-data.csv filter=lfs diff=lfs merge=lfs -text
 18-11-29_09-35N64-P384-S6000-11.47h-Random-SR10-Seed123-data.csv filter=lfs diff=lfs merge=lfs -text
 functions_sim.ipynb filter=lfs diff=lfs merge=lfs -text
+amplitude_original.tiff filter=lfs diff=lfs merge=lfs -text
