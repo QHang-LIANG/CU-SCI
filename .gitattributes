@@ -7,3 +7,4 @@ CU-SCI_EXP.ipynb filter=lfs diff=lfs merge=lfs -text
 functions_sim.ipynb filter=lfs diff=lfs merge=lfs -text
 amplitude_original.tiff filter=lfs diff=lfs merge=lfs -text
 phase_original.tiff filter=lfs diff=lfs merge=lfs -text
+CORRELATION_SIM.ipynb filter=lfs diff=lfs merge=lfs -text
